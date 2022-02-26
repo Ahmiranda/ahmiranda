@@ -12,19 +12,22 @@
     📹 Sou criador de conteúdo no YouTube, oferencendo aulas e tutoriais relacionados a engenharia e programação no meu canal. <br>
     🖼️ Estou aprendendo design para complementar o material audiovisual que produzo. <br>
 </p>
+
 <div style="display: inline-block">
     <img alt="Alan-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
     <img alt="Alan-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-    <img alt="Alan-premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
-    <img alt="Alan-afterefects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+    <img alt="Alan-premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+    <img alt="Alan-afterefects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
     <img alt="Alan-webstorm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
     <img alt="Alan-pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <img alt="Alan-jpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
 </div> <br>
 
+
 <div style="display: inline-block">
     <img alt="Alan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img alt="Alan-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img alt="Alan-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img alt="Alan-matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
     <img alt="Alan-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -35,8 +38,8 @@
 
 <div style="display: inline"> <br>
     <a href="https://github.com/Ahmiranda">
-        <img alt="stats-block1" height="160em"   src="https://github-readme-stats.vercel.app/api?username=Ahmiranda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&layout=compact"/>
-        <img alt="stats-block2" height="160em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmiranda&layout=compact&langs_count=16&theme=algolia"/>
+        <img alt="stats-block1" height="160em"   src="https://github-readme-stats.vercel.app/api?username=ahpqmiranda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&layout=compact"/>
+        <img alt="stats-block2" height="160em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahpqmiranda&layout=compact&langs_count=16&theme=algolia"/>
 
 </div>
 
