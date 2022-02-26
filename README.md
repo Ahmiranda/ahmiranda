@@ -1,9 +1,19 @@
-# ahmiranda
- profile personalization
-<div align="center">
+
+<h1>Olá, eu sou o Alan, e seja bem vindo ao meu Github!!! </h1>
+<h3> Algumas coisas sobre mim: </h3>
+<div>
+    🎓 Sou estudante de Engenharia Mecânica da UFPA. <br>
+    👨‍💻 Estudo Python, JavaScript, C++ e MATLAB como objetivo pessoal. <br>
+    📹 Sou criador de conteúdo no YouTube, oferencendo aulas e tutoriais relacionados a engenharia e programação no meu canal. <br>
+    🖼️ Estou aprendendo design para complementar o material audiovisual que produzo. <br>
+</div>
+
+***
+
+<div>
     <a href="https://github.com/Ahmiranda">
-        <img alt="stats-block1" height="175em"  src="https://github-readme-stats.vercel.app/api?username=Ahmiranda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img alt="stats-block2" height="178em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmiranda&layout=compact&langs_count=16&theme=algolia" />
+        <img alt="stats-block1" height="180em"  src="https://github-readme-stats.vercel.app/api?username=Ahmiranda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img alt="stats-block2" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmiranda&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
 ***
