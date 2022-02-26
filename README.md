@@ -2,9 +2,12 @@
  profile personalization
 <div align="center">
     <a href="https://github.com/Ahmiranda">
-        <img alt="stats-block1" height="250em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Ahmiranda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img alt="stats-block2" height="250em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmiranda&layout=compact&langs_count=16&theme=algolia" />
-<div align="center">
+        <img alt="stats-block1" height="175em"  src="https://github-readme-stats.vercel.app/api?username=Ahmiranda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img alt="stats-block2" height="178em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmiranda&layout=compact&langs_count=16&theme=algolia" />
+</div>
+
+***
+
 <div style="display: inline-block"> <br>
     <img alt="Alan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img alt="Alan-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -13,7 +16,10 @@
     <img alt="Alan-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alt="Alan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
-<div align="center">
+
+***
+
+<div>
     <a href="https://www.youtube.com/engenhado" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/engenhado.ig" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/engenhado" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
