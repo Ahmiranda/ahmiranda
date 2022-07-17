@@ -86,7 +86,7 @@
     </samp>
 </div>
 <h4>
-    IDEs:
+    IDEs e Interfaces:
 </h4>
 <div>
     <samp>
@@ -94,6 +94,11 @@
         <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-%23F7931E.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
         <img alt="Phpstorm" src="https://img.shields.io/badge/Phpstorm-%23F7931E.svg?style=for-the-badge&logo=phpstorm&logoColor=white" />
         <img alt="Goland" src="https://img.shields.io/badge/Goland-%23F7931E.svg?style=for-the-badge&logo=goland&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-%23F7931E.svg?style=for-the-badge&logo=docker&logoColor=white" />
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23F7931E.svg?style=for-the-badge&logo=github&logoColor=white" />
+        <img alt="Git" src="https://img.shields.io/badge/Git-%23F7931E.svg?style=for-the-badge&logo=git&logoColor=white" />
+        <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%23F7931E.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+        <img alt="Node" src="https://img.shields.io/badge/Node-%23F7931E.svg?style=for-the-badge&logo=node&logoColor=white" />
     </samp>
 </div>
 <p>
