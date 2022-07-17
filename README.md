@@ -76,7 +76,6 @@
         <img alt="ploty" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
     </samp>
 </div>
-&nbsp
 <h4>
     Databases:
 </h4>
@@ -86,7 +85,6 @@
         <img alt="Mongo-db" src="https://img.shields.io/badge/MongoDB-%23F7931E.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     </samp>
 </div>
-&nbsp
 <h4>
     IDEs:
 </h4>
@@ -98,15 +96,11 @@
         <img alt="Goland" src="https://img.shields.io/badge/Goland-%23F7931E.svg?style=for-the-badge&logo=goland&logoColor=white" />
     </samp>
 </div>
-&nbsp
-
 <p>
     Além das citadas, também tenho conhecimento em outras ferramentas como: Vs Code, PowerBI, Tabelau, Excel, Word, PowerPoint, etc.
 </p>
-<br>
-
-
 <h4> Contato e Redes Sociais</h4>
+<div>
     <samp>
         <a href="https://www.youtube.com/engenhado" target="_blank"><img alt="alan-yt" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" ></a>
         <a href="https://www.twitch.tv/engenhado" target="_blank"><img alt="alan-tch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" ></a>
@@ -114,9 +108,8 @@
         <a href="https://www.linkedin.com/in/ahpmiranda/" target="_blank"><img alt="alan-lk" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
         <a href="https://twitter.com/ahpqmiranda" target="_blank"><img alt="alan-tw" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" ></a>
     </samp>
-<br>
-&nbsp
-
+    <br>
+</div>
 <details>
     <summary>Github Status</summary>
     <div align="center">
