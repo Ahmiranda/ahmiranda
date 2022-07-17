@@ -119,13 +119,13 @@
     <summary>Github Status</summary>
     <div align="center">
         <samp>
+            <img alt="stats-languages" height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahpqmiranda&layout=compact&langs_count=20&theme=algolia"/>
+            <br>
+            <br>
             <img alt="stats-streak" height="160em"  src="https://github-readme-streak-stats.herokuapp.com/?user=ahpqmiranda&theme=algolia&hide_border=false">
             <br>
             <br>
             <img alt="stats-activities" height="160em"  src="https://github-readme-stats.vercel.app/api?username=ahpqmiranda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&layout=expanded"/>
-            <br>
-            <br>
-            <img alt="stats-languages" height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahpqmiranda&layout=compact&langs_count=20&theme=algolia"/>
             <br>
             <br>
             <img alt="contribution-30d-graph" height="320"  src="https://activity-graph.herokuapp.com/graph?username=Ahpqmiranda&days=30&theme=react-dark&hide_border=false">
