@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
 </head>
 <body>
 <h1>
@@ -90,6 +89,7 @@
     <img alt="Phpstorm" src="https://img.shields.io/badge/Phpstorm-%23F7931E.svg?style=for-the-badge&logo=phpstorm&logoColor=white" />
     <img alt="Goland" src="https://img.shields.io/badge/Goland-%23F7931E.svg?style=for-the-badge&logo=goland&logoColor=white" />
 </samp>
+<br>
 &nbsp
 
 <p>
