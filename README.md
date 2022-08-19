@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
 <h1>
@@ -82,6 +83,7 @@
     <samp>
         <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
         <img alt="Mongo-db" src="https://img.shields.io/badge/MongoDB-%23F7931E.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23F7931E.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     </samp>
 </div>
 <h4>
@@ -91,7 +93,7 @@
     <samp>
         <img alt="Visual-studio-code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
         <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-%23F7931E.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
-        <img alt="Phpstorm" src="https://img.shields.io/badge/Phpstorm-%23F7931E.svg?style=for-the-badge&logo=phpstorm&logoColor=white" />
+        <img alt="Webstorm" src="https://img.shields.io/badge/WebStorm-%23F7931E.svg?style=for-the-badge&logo=webstorm&logoColor=white" />
         <img alt="Goland" src="https://img.shields.io/badge/Goland-%23F7931E.svg?style=for-the-badge&logo=goland&logoColor=white" />
         <img alt="Docker" src="https://img.shields.io/badge/Docker-%23F7931E.svg?style=for-the-badge&logo=docker&logoColor=white" />
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23F7931E.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -101,7 +103,7 @@
     </samp>
 </div>
 <p>
-    Além das citadas, também tenho conhecimento em outras ferramentas como: Vs Code, PowerBI, Tabelau, Excel, Word, PowerPoint, etc.
+    Além das citadas, também tenho conhecimento em outras ferramentas como: vs Code, PowerBI, Tabelau, Excel, Word, PowerPoint, etc.
 </p>
 <h4> Contato e Redes Sociais</h4>
 <div>
@@ -131,6 +133,11 @@
         </samp>
     </div>
 </details>
+
+<div>
+    <img alt="snake-map" src="https://github.com/ahpqmiranda/snk/raw/output/github-contribution-grid-snake.svg" />
+</div>
+
 
 </body>
 </html>
