@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
 </head>
 <body>
 <h1>
@@ -133,11 +132,5 @@
         </samp>
     </div>
 </details>
-
-<div>
-    <img alt="snake-map" src="https://github.com/ahpqmiranda/snk/raw/output/github-contribution-grid-snake.svg" />
-</div>
-
-
 </body>
 </html>
