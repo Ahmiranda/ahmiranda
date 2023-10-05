@@ -48,11 +48,13 @@
     <img src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/apple%20-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
 <br><br>
+
 <b>Principais Langs :</b><br>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/csharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/sql%20-%2307405e.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <br><br>
+
 <b>Frameworks :</b><br>
     <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -68,16 +70,19 @@
     <img src="https://img.shields.io/badge/seaborn%20-%23150458.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/>
     <img src="https://img.shields.io/badge/opencv%20-%23013243.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
 <br><br>
+
 <b>Principais Databases SQL:</b><br>
     <img src="https://img.shields.io/badge/postgresql%20-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql%20-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
 <br><br>
+
 <b>Familiaridade com as Plataformas de desenvolvimento embarcado:</b><br>
     <img src="https://img.shields.io/badge/arduino%20-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
     <img src="https://img.shields.io/badge/raspberry%20pi%20-%23C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
     <img src="https://img.shields.io/badge/esp32%20-%23000000.svg?&style=for-the-badge&logo=esp32&logoColor=white"/>
 <br><br>
+
 <b>Principais IDEs:</b><br>
     <img src="https://img.shields.io/badge/anaconda%20navigator%20-%23121011.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
     <img src="https://img.shields.io/badge/visual%20studio%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -86,6 +91,7 @@
     <img src="https://img.shields.io/badge/webstorm%20-%23F7931E.svg?&style=for-the-badge&logo=webstorm&logoColor=white"/>
     <img src="https://img.shields.io/badge/rider%20-%23F7931E.svg?&style=for-the-badge&logo=rider&logoColor=white"/>
 <br><br>
+
 <b>Principais Ferramentas de Gerenciamento de Código:</b><br>
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
