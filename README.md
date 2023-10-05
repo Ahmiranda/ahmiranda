@@ -43,6 +43,7 @@
 
 <h2 align="center">Principais Tecnologias: </h2>
 <br><br>
+
 <b>Familiaridade com os SOs :</b> <br>
     <img src="https://img.shields.io/badge/windows%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
@@ -100,7 +101,7 @@
     <img src="https://img.shields.io/badge/powerbi%20-%23007ACC.svg?&style=for-the-badge&logo=power-bi&logoColor=white"/>
 <br><br>
 
-<h4> Social Media :</h4>
+<b>Social Media</b>
 <div>
     <samp>
         <a href="https://www.linkedin.com/in/ahpmiranda/" target="_blank"><img alt="alan-lk" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
