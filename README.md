@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <title>New Profile Test</title>
+    <meta charset="UTF-8">    
 </head>
 <body>
 <h2 align="center">
@@ -11,37 +10,46 @@
     <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
 </h2>
 
-<h2 align="center">
-    I'm Alan
-</h2>
-
 <img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
+<h2>
+    Um pouco sobre mim...
 
+</h2>
 <p align="left">
     <samp>
         <br><br>
-        Data Scientist, DBA & Mechanical Engineer's student...
-        <br><br>
-        & Software developer...
-        <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50">
-        <br><br>
-        Also a content creator on YouTube, offering classes and tutorials related to engineering and programming on my channel (in Portuguese).
+        Graduando de Engenharia Mecânica 7º Semestre - Universidade Federal do Pará (UFPA) <br>
+        <br>
+        <b>Áreas de interesse: Engenharia Mecânica </b> <br>
+        <br>
+        Gestão de Riscos <br>
+        Engenharia de Confiabilidade <br>
+        Engenharia de Manutenção <br>
+        Excelência Organizacional e Operacional <br>
+        <br>
+        <b>Áreas de interesse: Ciência de Dados e Desenvolvimento de Software </b> <br>
+        <br>
+        Machine Learning <br>
+        Deep Learning <br>
+        Artificial Intelligence <br>
+        Computer Vision <br>
+        Natural Language Processing <br>
+        Big Data <br>        
+        <br>
     </samp>
 </p>
 
 <hr/>
 
-<h2 align="center">About</h2>
+<h2 align="center">Principais Tecnologias: </h2>
 <br><br>
-<b>System Plateforms :</b> <br>
+<b>Familiaridade com os SOs :</b> <br>
     <img src="https://img.shields.io/badge/windows%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/apple%20-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
 <br><br>
-
-<b>Languages :</b><br>
+<b>Principais Langs :</b><br>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/csharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/sql%20-%2307405e.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <br><br>
@@ -57,33 +65,38 @@
     <img src="https://img.shields.io/badge/pytorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/matplotlib%20-%23150458.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
     <img src="https://img.shields.io/badge/plotly%20-%23121011.svg?&style=for-the-badge&logo=plotly&logoColor=white"/>
+    <img src="https://img.shields.io/badge/seaborn%20-%23150458.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/opencv%20-%23013243.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
 <br><br>
-<b>Databases :</b><br>
+<b>Principais Databases SQL:</b><br>
     <img src="https://img.shields.io/badge/postgresql%20-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql%20-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
 <br><br>
-<b>Tools :</b><br>
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jupyter%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/anaconda%20-%23121011.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
+<b>Familiaridade com as Plataformas de desenvolvimento embarcado:</b><br>
+    <img src="https://img.shields.io/badge/arduino%20-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/raspberry%20pi%20-%23C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/esp32%20-%23000000.svg?&style=for-the-badge&logo=esp32&logoColor=white"/>
+<br><br>
+<b>Principais IDEs:</b><br>
+    <img src="https://img.shields.io/badge/anaconda%20navigator%20-%23121011.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
     <img src="https://img.shields.io/badge/visual%20studio%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/visual%20studio%20-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/pycharm%20-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/webstorm%20-%23F7931E.svg?&style=for-the-badge&logo=webstorm&logoColor=white"/>
     <img src="https://img.shields.io/badge/rider%20-%23F7931E.svg?&style=for-the-badge&logo=rider&logoColor=white"/>
-    <img src="https://img.shields.io/badge/nodejs%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<br><br>
+<b>Principais Ferramentas de Gerenciamento de Código:</b><br>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/powerbi%20-%23007ACC.svg?&style=for-the-badge&logo=power-bi&logoColor=white"/>
+<br><br>
 
 <h4> Social Media :</h4>
 <div>
     <samp>
-        <a href="https://www.youtube.com/engenhado" target="_blank"><img alt="alan-yt" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" ></a>
-        <a href="https://www.twitch.tv/engenhado" target="_blank"><img alt="alan-tch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" ></a>
-        <a href = "mailto:engenhadocanal@gmail.com"><img alt="alan-mailto" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
         <a href="https://www.linkedin.com/in/ahpmiranda/" target="_blank"><img alt="alan-lk" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
         <a href="https://twitter.com/ahpqmiranda" target="_blank"><img alt="alan-tw" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" ></a>
     </samp>
